@@ -21,3 +21,6 @@
 Попри наявні дисбаланси між регіонами, загальна тенденція залишається позитивною — інвестиції повертаються, а разом з ними і потенціал для зростання.
 
 Дані для аналізу було взято з офіційного сайту Держстат (Банку Даних) України.
+
+Візуалізація в Tableau 
+https://public.tableau.com/views/AnalysisofCapitalInvestmenttoUkraine2022-2024/Capital_Investment_to_Ukraine_2022-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
